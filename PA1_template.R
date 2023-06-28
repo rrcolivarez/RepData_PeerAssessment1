@@ -122,7 +122,3 @@ activity <- read.csv("activity.csv")
     ggtitle("Weekday vs Weekend Average Number of Steps")
                                 
   #There is slight difference in the step patterns between weekday and weekend.
-  #For weekday, a larger spike in morning intervals while 
-  
-  #The chart shows slight differences in the step patterns throughout the average daily intervals. For weekdays there is a larger spike in the morning intervals that could indicate commuters on their way to work. Spikes during the late morning and early afternoon seem to be higher on the weekends. One can assume that this might be related to subjects running errands, doing yardwork, exercising, etc. Those same intervals for weekdays appear to be less perhaps due to subjects sitting at their desk, driving a truck or standing in front of a machine in a factory.
-    
