@@ -1,8 +1,8 @@
 ---
 title: "PA1_template.Rmd"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 date: "2023-06-25"
 ---
 
